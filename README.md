@@ -6,6 +6,8 @@ Bali_Lads is a web app built with **Vite**, **React**, **TypeScript**, **Tailwin
 
 This README explains how to set up and run the project locally so others can try it out.
 
+Here's link to our Demo video : https://www.youtube.com/watch?v=689Bpn41tYw
+
 ---
 
 ## 🚀 Features
